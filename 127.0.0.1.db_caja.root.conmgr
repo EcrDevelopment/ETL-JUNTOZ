@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="127.0.0.1.db_caja.root"
+  DTS:DTSID="{D71C0CAD-5211-4622-8074-E2255FEA6997}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="server=127.0.0.1;uid=root;Driver={MySQL ODBC 5.3 Unicode Driver};database=db_caja;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOzICukCnqEKEsRC+tkrO9QAAAAACAAAAAAAQZgAAAAEAACAAAACcb2P9RqbeLAqUBRVTsJl7BkBlh24k4q3GEnOPBr8cigAAAAAOgAAAAAIAACAAAACHftyW/Xxj6FcMIm2kqQ7W1CVCFuGmC+b/YeX3FRFL8oAAAAC+2d8WcVbkJ1TGNm/WcIa2g4PT2hx39jQb07pgU3sKRqCOe52D+iKLIaS9zEAQydaRqPdkVD+YEfYx01eCyDeQmLU+WiYo6pUBbvvxprD/Cj5s34k/p/VY2ser3vTN0OAtaV9s8eo+hyqlowoSRfRLS50QfP2mtTdl9sKZV0xnM0AAAABcvbbzQcB+gTMeDJVoROMMIj5eKPJFUszFl+ot9E6MSGZaojAQNdnYcAe6AQAsd2k0BS5uaI9EQV57PEOt1svv</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
